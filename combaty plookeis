@@ -1,4 +1,3 @@
-local Button = Section.NewButton("Combat Warriors",function()
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("money scripts combat", "BloodTheme")
 
